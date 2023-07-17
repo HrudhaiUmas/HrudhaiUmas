@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrudhai!</h1>
 <h3 align="center">An Informatics and Data-Science Student @ the University Of Washington- Seattle!</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hrudhai-umas/](https://www.linkedin.com/in/hrudhai-umas/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hrudhai-umas/]([https://hrudhaiumas20.wixsite.com/hrudhaiumas](https://hrudhaiumas20.wixsite.com/hrudhaiumas))](https://www.linkedin.com/in/hrudhai-umas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
